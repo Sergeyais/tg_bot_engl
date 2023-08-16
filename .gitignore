@@ -1,4 +1,8 @@
 bot_regist/config.py
+bot_main/config.py
 bot_regist/__pycache__/
-permissions.db
+bot_main/__pycache__/
+bot_regist/permissions.db
+bot_main/statistics.db
+venv/
 
